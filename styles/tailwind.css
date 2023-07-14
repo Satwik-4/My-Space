@@ -1,0 +1,12 @@
+/* styles/tailwind.css */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-purple-600 to-indigo-600;
+    color: #f1f1f1;
+  }
+}
