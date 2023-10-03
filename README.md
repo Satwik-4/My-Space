@@ -43,29 +43,49 @@ To get My-Space up and running locally, follow these steps:
 
 3. Install the project dependencies:
 
-  ```bash
-  npm install
+   ```bash
+    npm install
 
 4. Start the development server:
 
-  ```bash
-  npm run dev
+   ```bash
+    npm run dev
 
 5. Open your web browser and navigate to http://localhost:3000 to use My-Space.
 
 ## Usage
 
-1. Open the My-Space web application in your browser.
-2. Enter the URL of the article you've read or want to track in the input field.
-3. Click the "Search" button.
-4. My-Space will display the number of web articles you've read and provide a disclaimer if you've already visited the entered link.
-5. Your reading history is stored locally, so you can keep track of your articles over time.
+- Open the My-Space web application in your browser.
+- Enter the URL of the article you've read or want to track in the input field.
+- Click the "Search" button.
+- My-Space will display the number of web articles you've read and provide a disclaimer if you've already visited the entered link.
+- Your reading history is stored locally, so you can keep track of your articles over time.
 
-##Features
+## Features
 
-Track the web articles you've read.
-Display the count of articles you've visited.
-Provide a disclaimer for articles you've already read.
-Locally store your reading history for privacy and convenience.
+- Track the web articles you've read.
+- Display the count of articles you've visited.
+- Provide a disclaimer for articles you've already read.
+- Locally store your reading history for privacy and convenience.
 
+## Contributing
 
+1. Fork the repository on GitHub.
+2. Clone your forked repository to your local machine.
+3. Create a new branch for your feature or bug fix:
+
+   ```bash
+    git checkout -b feature/your-feature-name
+   
+4. Make your changes and commit them:
+
+   ```bash
+    git commit -m "Add your feature or fix description"
+   
+5. Push your changes to your forked repository:
+
+   ```bash
+   git push origin feature/your-feature-name
+
+6. Open a pull request on the original repository, explaining your changes.
+7. Collaborate with the community to review and improve your code.
