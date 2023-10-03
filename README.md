@@ -10,7 +10,6 @@ Welcome to My-Space, a web application built with Next.js that helps you keep tr
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
